@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/tiago/Documents/LCC/LA/Projeto/Rastros/dados.c" "/home/tiago/Documents/LCC/LA/Projeto/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/dados.c.o"
-  "/home/tiago/Documents/LCC/LA/Projeto/Rastros/interface.c" "/home/tiago/Documents/LCC/LA/Projeto/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/interface.c.o"
-  "/home/tiago/Documents/LCC/LA/Projeto/Rastros/logica.c" "/home/tiago/Documents/LCC/LA/Projeto/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/logica.c.o"
-  "/home/tiago/Documents/LCC/LA/Projeto/Rastros/main.c" "/home/tiago/Documents/LCC/LA/Projeto/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/main.c.o"
+  "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/dados.c" "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/dados.c.o"
+  "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/interface.c" "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/interface.c.o"
+  "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/logica.c" "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/logica.c.o"
+  "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/main.c" "/Users/vicente/Desktop/LCC-LA-PL2-estado/Rastros/cmake-build-debug/CMakeFiles/Projeto.dir/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
