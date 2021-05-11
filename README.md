@@ -1,6 +1,6 @@
 # LCC 
 
-UC Laboratório de Algoritmia I
+UC Laboratório de Algoritmia I 2019/2020
 
 Turno Prático PL2 
 
